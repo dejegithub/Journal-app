@@ -13,3 +13,6 @@ Features of the Mydiary app.
 6. delete diary by swipping left or right if no longer needed
 7. Sign out
 8. Store all diary information on Room Database for future use.
+
+# MyDiary apk url https://github.com/dejegithub/Journal-app/blob/master/app-debug.apk 
+# url for screenshoot 
