@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="title">Title</string>
+
+    <!-- Strings related to login -->
+
+    <string name="type_title_here">Type title here...</string>
+    <string name="save">Save</string>
+    <string name="say_what_u_want_to">Say what U want to...</string>
+    <string name="description">Note</string>
+    <string name="time_goes_here">Time goes here</string>
+    <string name="title_goes_here">Title goes here</string>
+    <string name="description_goes_here">Note goes here</string>
+    <string name="update_button">Update</string>
+    <string name="loading">Loading...</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_out">Signed Out</string>
+
+
+</resources>
+
